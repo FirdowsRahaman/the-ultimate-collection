@@ -1,34 +1,40 @@
-# The Ultimate Collection 🌌
+<div align="center">
+
+<img src="assets/icons/vault.svg" width="76" height="76" alt="The Ultimate Collection Logo" />
+
+# The Ultimate Collection
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#)
+[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#)
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > **"Find it once, save it, never search for it again."**
 
 A universal, curated directory of standout GitHub repositories, developer utilities, autonomous AI agents, open-source applications, cybersecurity resources, design libraries, and productivity tools across every field.
 
+</div>
+
 ---
 
 ## 📑 Table of Contents
 
-- [🤖 AI, Agents & Machine Learning](#-ai-agents--machine-learning)
-- [🛠️ Developer Tools & Infrastructure](#️-developer-tools--infrastructure)
-- [⚡ Automation & Productivity](#-automation--productivity)
-- [🎨 Design, UI & Creative Assets](#-design-ui--creative-assets)
-- [🔒 Cybersecurity & Privacy](#-cybersecurity--privacy)
-- [📦 Open-Source Applications & Self-Hosted](#-open-source-applications--self-hosted)
-- [💼 Business, Career & Entrepreneurship](#-business-career--entrepreneurship)
-- [🌐 Public APIs, Datasets & Learning](#-public-apis-datasets--learning)
-- [🧭 Meta Lists & Master Indexes](#-meta-lists--master-indexes)
-- [➕ How to Add a Repository](#-how-to-add-a-repository)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+- <img src="assets/icons/ai.svg" width="18" height="18" align="center" /> [AI, Agents & Machine Learning](#ai-agents--machine-learning)
+- <img src="assets/icons/tools.svg" width="18" height="18" align="center" /> [Developer Tools & Infrastructure](#developer-tools--infrastructure)
+- <img src="assets/icons/automation.svg" width="18" height="18" align="center" /> [Automation & Productivity](#automation--productivity)
+- <img src="assets/icons/design.svg" width="18" height="18" align="center" /> [Design, UI & Creative Assets](#design-ui--creative-assets)
+- <img src="assets/icons/security.svg" width="18" height="18" align="center" /> [Cybersecurity & Privacy](#cybersecurity--privacy)
+- <img src="assets/icons/apps.svg" width="18" height="18" align="center" /> [Open-Source Applications & Self-Hosted](#open-source-applications--self-hosted)
+- <img src="assets/icons/business.svg" width="18" height="18" align="center" /> [Business, Career & Entrepreneurship](#business-career--entrepreneurship)
+- <img src="assets/icons/api.svg" width="18" height="18" align="center" /> [Public APIs, Datasets & Learning](#public-apis-datasets--learning)
+- <img src="assets/icons/index.svg" width="18" height="18" align="center" /> [Meta Lists & Master Indexes](#meta-lists--master-indexes)
+- <img src="assets/icons/plus.svg" width="18" height="18" align="center" /> [How to Add a Repository](#how-to-add-a-repository)
+- <img src="assets/icons/contribute.svg" width="18" height="18" align="center" /> [Contributing](#contributing)
+- <img src="assets/icons/license.svg" width="18" height="18" align="center" /> [License](#license)
 
 ---
 
-## 🤖 AI, Agents & Machine Learning
+## <img src="assets/icons/ai.svg" width="22" height="22" align="center" /> AI, Agents & Machine Learning <a id="ai-agents--machine-learning"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -47,7 +53,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 
 ---
 
-## 🛠️ Developer Tools & Infrastructure
+## <img src="assets/icons/tools.svg" width="22" height="22" align="center" /> Developer Tools & Infrastructure <a id="developer-tools--infrastructure"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -64,7 +70,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 
 ---
 
-## ⚡ Automation & Productivity
+## <img src="assets/icons/automation.svg" width="22" height="22" align="center" /> Automation & Productivity <a id="automation--productivity"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -79,7 +85,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 
 ---
 
-## 🎨 Design, UI & Creative Assets
+## <img src="assets/icons/design.svg" width="22" height="22" align="center" /> Design, UI & Creative Assets <a id="design-ui--creative-assets"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -94,7 +100,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 
 ---
 
-## 🔒 Cybersecurity & Privacy
+## <img src="assets/icons/security.svg" width="22" height="22" align="center" /> Cybersecurity & Privacy <a id="cybersecurity--privacy"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -108,7 +114,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 
 ---
 
-## 📦 Open-Source Applications & Self-Hosted
+## <img src="assets/icons/apps.svg" width="22" height="22" align="center" /> Open-Source Applications & Self-Hosted <a id="open-source-applications--self-hosted"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -123,7 +129,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 
 ---
 
-## 💼 Business, Career & Entrepreneurship
+## <img src="assets/icons/business.svg" width="22" height="22" align="center" /> Business, Career & Entrepreneurship <a id="business-career--entrepreneurship"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -136,7 +142,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 
 ---
 
-## 🌐 Public APIs, Datasets & Learning
+## <img src="assets/icons/api.svg" width="22" height="22" align="center" /> Public APIs, Datasets & Learning <a id="public-apis-datasets--learning"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -149,7 +155,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 
 ---
 
-## 🧭 Meta Lists & Master Indexes
+## <img src="assets/icons/index.svg" width="22" height="22" align="center" /> Meta Lists & Master Indexes <a id="meta-lists--master-indexes"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -160,7 +166,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 
 ---
 
-## ➕ How to Add a Repository
+## <img src="assets/icons/plus.svg" width="22" height="22" align="center" /> How to Add a Repository <a id="how-to-add-a-repository"></a>
 
 Found a repository or tool that saves you hours? Add it!
 
@@ -174,12 +180,12 @@ Found a repository or tool that saves you hours? Add it!
 
 ---
 
-## 🤝 Contributing
+## <img src="assets/icons/contribute.svg" width="22" height="22" align="center" /> Contributing <a id="contributing"></a>
 
 Contributions are warmly welcomed! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on formatting, guidelines, and submitting a pull request.
 
 ---
 
-## 📄 License
+## <img src="assets/icons/license.svg" width="22" height="22" align="center" /> License <a id="license"></a>
 
 This repository is licensed under the [MIT License](LICENSE).

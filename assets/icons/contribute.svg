@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <defs>
+    <linearGradient id="contribGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <!-- Git Branch / Merge Collaboration icon -->
+  <circle cx="6" cy="6" r="3" fill="#38BDF8"/>
+  <circle cx="6" cy="18" r="3" fill="#4ADE80"/>
+  <circle cx="18" cy="9" r="3" fill="url(#contribGrad)"/>
+  <!-- Branch lines -->
+  <line x1="6" y1="9" x2="6" y2="15" stroke="#94A3B8" stroke-width="2"/>
+  <path d="M6 15c0-4 12-2 12-6" stroke="url(#contribGrad)" stroke-width="2" fill="none"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <defs>
+    <linearGradient id="caseGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <linearGradient id="chartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+  </defs>
+  <!-- Briefcase Handle -->
+  <path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2" stroke="#047857" stroke-width="2" fill="none"/>
+  <!-- Briefcase Body -->
+  <rect x="2" y="6" width="20" height="15" rx="3" fill="url(#caseGrad)"/>
+  <!-- Inner Band -->
+  <rect x="2" y="11" width="20" height="3" fill="#065F46" opacity="0.4"/>
+  <!-- Gold Lock Clasp -->
+  <rect x="10.5" y="10" width="3" height="3" rx="0.6" fill="#FCD34D"/>
+  <!-- Rising Trendline Accent -->
+  <path d="M5 18l4-4 3 2 6-6" stroke="#A7F3D0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <polyline points="15 10 18 10 18 13" stroke="#A7F3D0" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

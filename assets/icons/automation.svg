@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <defs>
+    <linearGradient id="autoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="boltGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FACC15"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <!-- Gear teeth background -->
+  <path d="M12 4.5a7.5 7.5 0 1 0 7.5 7.5A7.5 7.5 0 0 0 12 4.5zm0 13a5.5 5.5 0 1 1 5.5-5.5 5.5 5.5 0 0 1-5.5 5.5z" fill="url(#autoGrad)" opacity="0.9"/>
+  <circle cx="12" cy="2" r="1.5" fill="#10B981"/>
+  <circle cx="12" cy="22" r="1.5" fill="#10B981"/>
+  <circle cx="2" cy="12" r="1.5" fill="#10B981"/>
+  <circle cx="22" cy="12" r="1.5" fill="#10B981"/>
+  <!-- Centered Lightning Bolt -->
+  <polygon points="13,5 7,13 12,13 11,19 17,11 12,11" fill="url(#boltGrad)"/>
+</svg>
