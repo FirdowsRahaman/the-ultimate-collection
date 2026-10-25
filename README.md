@@ -39,12 +39,15 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | Resource | Description | Type |
 | :--- | :--- | :--- |
 | [Higgsfield Skills](https://github.com/higgsfield-ai/skills) | Production-grade skills and prompts for autonomous AI coding agents | Skills / Prompts |
+| [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ production-ready AI agents, Agent Skills, MCP servers, and RAG systems with code | Agent Cookbooks |
 | [LangChain](https://github.com/langchain-ai/langchain) | Framework for developing applications powered by language models | Framework |
 | [CrewAI](https://github.com/crewAIInc/crewAI) | Orchestration platform for role-playing, autonomous multi-agent teams | Multi-Agent |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Open-source platform to build and run autonomous AI agents | Autonomous Agent |
 | [Hindsight](https://github.com/vectorize-io/hindsight) | Long-term memory system with temporal reasoning and cross-session persistence for AI agents | Agent Memory |
+| [HyperFrames](https://github.com/heygen-com/hyperframes) | Agent-native framework by HeyGen to render HTML, CSS, and animations into deterministic MP4 videos | Video Rendering |
 | [Ollama](https://github.com/ollama/ollama) | Run Llama 3, Mistral, and other large language models locally | Local AI Runtime |
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput, memory-efficient LLM serving and inference engine | Inference Engine |
+| [WanGP](https://github.com/deepbeepmeep/WanGP) | VRAM-optimized generative platform to run video & image models (Wan 2.1, Hunyuan, Flux) on consumer GPUs | Video Generation |
 | [ComfyUI](https://github.com/comfyanonymous/ComfyUI) | Powerful, modular graph/nodes interface for Stable Diffusion & generative AI | Generative UI |
 | [Transformers](https://github.com/huggingface/transformers) | State-of-the-art machine learning architectures for PyTorch, TF, and JAX | ML Library |
 | [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Long-horizon multi-page document OCR model with constant KV cache attention | Vision / OCR Model |
@@ -61,6 +64,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | :--- | :--- | :--- |
 | [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | Step-by-step tutorials to recreate Git, Docker, databases, and OS from scratch | Learning & Projects |
 | [MarkItDown](https://github.com/microsoft/markitdown) | Python utility from Microsoft to convert PDFs, Office files, audio, and images to clean Markdown | Document Converter |
+| [Peel](https://github.com/TuguiDragos/Peel) | Modern open-source macOS app uninstaller and residue/cache cleaner with CLI support | macOS Utility |
 | [uv](https://github.com/astral-sh/uv) | Extremely fast Python package manager and resolver written in Rust | Package Manager |
 | [bat](https://github.com/sharkdp/bat) | A modern `cat` clone with syntax highlighting and Git integration | CLI Utility |
 | [Neovim](https://github.com/neovim/neovim) | Highly-extensible, Lua-powered Vim fork focused on modern workflows | Code Editor |
@@ -112,6 +116,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | :--- | :--- | :--- |
 | [PentAGI](https://github.com/vxcontrol/pentagi) | Fully autonomous AI agent system for executing penetration tests inside isolated Docker environments | Autonomous Pentesting |
 | [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | Inspiring collection of manuals, cheat sheets, and security toolkits | Security & DevOps |
+| [Presidio](https://github.com/data-privacy-stack/presidio) | Microsoft's open-source framework to recognize, redact, and anonymize PII across text and images | Data Privacy / PII |
 | [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) | Multi-phase security audit agent skill by Cloudflare for systematic code review and vuln hunting | Agent Security Skill |
 | [SecLists](https://github.com/danielmiessler/SecLists) | Comprehensive collection of usernames, passwords, URLs, and payloads | Wordlists / Audit |
 | [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | Curated payloads and bypass techniques for web application security | Cheat Sheet / Payloads |
@@ -129,7 +134,9 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | :--- | :--- | :--- |
 | [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | The definitive index of network services and applications you can host yourself | Curated Directory |
 | [Immich](https://github.com/immich-app/immich) | High-performance self-hosted photo & video backup (Google Photos alternative) | Photos & Media |
+| [StemKit](https://github.com/danielravina/stemkit) | Open-source desktop app to isolate vocals, drums, and instruments locally with GPU acceleration | Audio & Music |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open-source Notion alternative with complete offline and privacy controls | Notes & Knowledge |
+| [CleanYourTV](https://github.com/Gathin23/cleanyourtv) | Debloat Android TV & Google TV devices over Wi-Fi without root and install a clean, minimal launcher | TV / Android Tool |
 | [Cal.com](https://github.com/calcom/cal.com) | Open scheduling infrastructure for individuals and enterprises | Scheduling |
 | [Ghost](https://github.com/TryGhost/Ghost) | Modern independent publishing platform for newsletters and blogs | Publishing & CMS |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Beautiful, self-hosted monitoring tool with status pages and alerts | Monitoring |
