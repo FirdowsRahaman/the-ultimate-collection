@@ -17,24 +17,24 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 
 ---
 
-## 📑 Table of Contents
+## <img src="assets/icons/toc.svg" width="22" height="22" align="absmiddle" /> Table of Contents <a id="table-of-contents"></a>
 
-- <img src="assets/icons/ai.svg" width="18" height="18" align="center" /> [AI, Agents & Machine Learning](#ai-agents--machine-learning)
-- <img src="assets/icons/tools.svg" width="18" height="18" align="center" /> [Developer Tools & Infrastructure](#developer-tools--infrastructure)
-- <img src="assets/icons/automation.svg" width="18" height="18" align="center" /> [Automation & Productivity](#automation--productivity)
-- <img src="assets/icons/design.svg" width="18" height="18" align="center" /> [Design, UI & Creative Assets](#design-ui--creative-assets)
-- <img src="assets/icons/security.svg" width="18" height="18" align="center" /> [Cybersecurity & Privacy](#cybersecurity--privacy)
-- <img src="assets/icons/apps.svg" width="18" height="18" align="center" /> [Open-Source Applications & Self-Hosted](#open-source-applications--self-hosted)
-- <img src="assets/icons/business.svg" width="18" height="18" align="center" /> [Business, Career & Entrepreneurship](#business-career--entrepreneurship)
-- <img src="assets/icons/api.svg" width="18" height="18" align="center" /> [Public APIs, Datasets & Learning](#public-apis-datasets--learning)
-- <img src="assets/icons/index.svg" width="18" height="18" align="center" /> [Meta Lists & Master Indexes](#meta-lists--master-indexes)
-- <img src="assets/icons/plus.svg" width="18" height="18" align="center" /> [How to Add a Repository](#how-to-add-a-repository)
-- <img src="assets/icons/contribute.svg" width="18" height="18" align="center" /> [Contributing](#contributing)
-- <img src="assets/icons/license.svg" width="18" height="18" align="center" /> [License](#license)
+- <img src="assets/icons/ai.svg" width="16" height="16" align="absmiddle" /> [AI, Agents & Machine Learning](#ai-agents--machine-learning)
+- <img src="assets/icons/tools.svg" width="16" height="16" align="absmiddle" /> [Developer Tools & Infrastructure](#developer-tools--infrastructure)
+- <img src="assets/icons/automation.svg" width="16" height="16" align="absmiddle" /> [Automation & Productivity](#automation--productivity)
+- <img src="assets/icons/design.svg" width="16" height="16" align="absmiddle" /> [Design, UI & Creative Assets](#design-ui--creative-assets)
+- <img src="assets/icons/security.svg" width="16" height="16" align="absmiddle" /> [Cybersecurity & Privacy](#cybersecurity--privacy)
+- <img src="assets/icons/apps.svg" width="16" height="16" align="absmiddle" /> [Open-Source Applications & Self-Hosted](#open-source-applications--self-hosted)
+- <img src="assets/icons/business.svg" width="16" height="16" align="absmiddle" /> [Business, Career & Entrepreneurship](#business-career--entrepreneurship)
+- <img src="assets/icons/api.svg" width="16" height="16" align="absmiddle" /> [Public APIs, Datasets & Learning](#public-apis-datasets--learning)
+- <img src="assets/icons/index.svg" width="16" height="16" align="absmiddle" /> [Meta Lists & Master Indexes](#meta-lists--master-indexes)
+- <img src="assets/icons/plus.svg" width="16" height="16" align="absmiddle" /> [How to Add a Repository](#how-to-add-a-repository)
+- <img src="assets/icons/contribute.svg" width="16" height="16" align="absmiddle" /> [Contributing](#contributing)
+- <img src="assets/icons/license.svg" width="16" height="16" align="absmiddle" /> [License](#license)
 
 ---
 
-## <img src="assets/icons/ai.svg" width="22" height="22" align="center" /> AI, Agents & Machine Learning <a id="ai-agents--machine-learning"></a>
+## <img src="assets/icons/ai.svg" width="22" height="22" align="absmiddle" /> AI, Agents & Machine Learning <a id="ai-agents--machine-learning"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -54,11 +54,11 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Dify](https://github.com/langgenius/dify) | Open-source LLM application development platform combining BaaS & LLMOps | Platform / Low-code |
 | [LocalAI](https://github.com/mudler/LocalAI) | Self-hosted, community-driven OpenAI-compatible alternative API | AI Server |
 
-[⬆ Back to Top](#-table-of-contents)
+[<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
 ---
 
-## <img src="assets/icons/tools.svg" width="22" height="22" align="center" /> Developer Tools & Infrastructure <a id="developer-tools--infrastructure"></a>
+## <img src="assets/icons/tools.svg" width="22" height="22" align="absmiddle" /> Developer Tools & Infrastructure <a id="developer-tools--infrastructure"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -74,11 +74,11 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [LocalStack](https://github.com/localstack/localstack) | Fully-functional local cloud stack for testing AWS applications offline | Cloud Emulation |
 | [HTTPie](https://github.com/httpie/cli) | User-friendly command-line HTTP client with JSON support and colorization | API Client |
 
-[⬆ Back to Top](#-table-of-contents)
+[<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
 ---
 
-## <img src="assets/icons/automation.svg" width="22" height="22" align="center" /> Automation & Productivity <a id="automation--productivity"></a>
+## <img src="assets/icons/automation.svg" width="22" height="22" align="absmiddle" /> Automation & Productivity <a id="automation--productivity"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -90,11 +90,11 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Espanso](https://github.com/espanso/espanso) | Cross-platform text expander written in Rust | Text Expansion |
 | [Huginn](https://github.com/huginn/huginn) | Build agents that monitor web events and perform automated actions | Event Automation |
 
-[⬆ Back to Top](#-table-of-contents)
+[<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
 ---
 
-## <img src="assets/icons/design.svg" width="22" height="22" align="center" /> Design, UI & Creative Assets <a id="design-ui--creative-assets"></a>
+## <img src="assets/icons/design.svg" width="22" height="22" align="absmiddle" /> Design, UI & Creative Assets <a id="design-ui--creative-assets"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -106,11 +106,11 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Tabler Icons](https://github.com/tabler/tabler-icons) | 5,000+ pixel-perfect vector icons for web and mobile development | Icon Set |
 | [Aceternity UI](https://github.com/mannupaaji/aceternity-ui) | Modern, animated components built with Tailwind CSS and Framer Motion | UI Components |
 
-[⬆ Back to Top](#-table-of-contents)
+[<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
 ---
 
-## <img src="assets/icons/security.svg" width="22" height="22" align="center" /> Cybersecurity & Privacy <a id="cybersecurity--privacy"></a>
+## <img src="assets/icons/security.svg" width="22" height="22" align="absmiddle" /> Cybersecurity & Privacy <a id="cybersecurity--privacy"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -124,11 +124,11 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy toolkit to strip invisible AI watermarks, zero-width tracking characters, and metadata | Privacy / Sanitizer |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Lightweight Bitwarden-compatible server written in Rust for self-hosting | Password Vault |
 
-[⬆ Back to Top](#-table-of-contents)
+[<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
 ---
 
-## <img src="assets/icons/apps.svg" width="22" height="22" align="center" /> Open-Source Applications & Self-Hosted <a id="open-source-applications--self-hosted"></a>
+## <img src="assets/icons/apps.svg" width="22" height="22" align="absmiddle" /> Open-Source Applications & Self-Hosted <a id="open-source-applications--self-hosted"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -141,11 +141,11 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Ghost](https://github.com/TryGhost/Ghost) | Modern independent publishing platform for newsletters and blogs | Publishing & CMS |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Beautiful, self-hosted monitoring tool with status pages and alerts | Monitoring |
 
-[⬆ Back to Top](#-table-of-contents)
+[<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
 ---
 
-## <img src="assets/icons/business.svg" width="22" height="22" align="center" /> Business, Career & Entrepreneurship <a id="business-career--entrepreneurship"></a>
+## <img src="assets/icons/business.svg" width="22" height="22" align="absmiddle" /> Business, Career & Entrepreneurship <a id="business-career--entrepreneurship"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -154,11 +154,11 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Awesome Indie](https://github.com/mezod/awesome-indie) | Curated list of tools, newsletters, and communities for independent founders | Indie Hacking |
 | [Awesome Open Startup](https://github.com/mhm54/awesome-open-startup) | List of companies that share their metrics, revenue, and code publicly | Open Business |
 
-[⬆ Back to Top](#-table-of-contents)
+[<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
 ---
 
-## <img src="assets/icons/api.svg" width="22" height="22" align="center" /> Public APIs, Datasets & Learning <a id="public-apis-datasets--learning"></a>
+## <img src="assets/icons/api.svg" width="22" height="22" align="absmiddle" /> Public APIs, Datasets & Learning <a id="public-apis-datasets--learning"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
@@ -168,22 +168,22 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets) | High-quality public datasets for data science, analytics, and machine learning | Open Data |
 | [Computer Science Curriculum](https://github.com/ossu/computer-science) | Complete self-taught education in Computer Science using free online materials | CS Curriculum |
 
-[⬆ Back to Top](#-table-of-contents)
+[<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
 ---
 
-## <img src="assets/icons/index.svg" width="22" height="22" align="center" /> Meta Lists & Master Indexes <a id="meta-lists--master-indexes"></a>
+## <img src="assets/icons/index.svg" width="22" height="22" align="absmiddle" /> Meta Lists & Master Indexes <a id="meta-lists--master-indexes"></a>
 
 | Resource | Description | Type |
 | :--- | :--- | :--- |
 | [Awesome](https://github.com/sindresorhus/awesome) | The original curated list of lists on GitHub covering all technical topics | Meta Directory |
 | [GitHub Explore Collections](https://github.com/github/explore) | Official community collections curated by GitHub | Meta Index |
 
-[⬆ Back to Top](#-table-of-contents)
+[<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
 ---
 
-## <img src="assets/icons/plus.svg" width="22" height="22" align="center" /> How to Add a Repository <a id="how-to-add-a-repository"></a>
+## <img src="assets/icons/plus.svg" width="22" height="22" align="absmiddle" /> How to Add a Repository <a id="how-to-add-a-repository"></a>
 
 Found a repository or tool that saves you hours? Add it!
 
@@ -197,12 +197,12 @@ Found a repository or tool that saves you hours? Add it!
 
 ---
 
-## <img src="assets/icons/contribute.svg" width="22" height="22" align="center" /> Contributing <a id="contributing"></a>
+## <img src="assets/icons/contribute.svg" width="22" height="22" align="absmiddle" /> Contributing <a id="contributing"></a>
 
 Contributions are warmly welcomed! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on formatting, guidelines, and submitting a pull request.
 
 ---
 
-## <img src="assets/icons/license.svg" width="22" height="22" align="center" /> License <a id="license"></a>
+## <img src="assets/icons/license.svg" width="22" height="22" align="absmiddle" /> License <a id="license"></a>
 
 This repository is licensed under the [MIT License](LICENSE).
