@@ -44,6 +44,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [CrewAI](https://github.com/crewAIInc/crewAI) | Orchestration platform for role-playing, autonomous multi-agent teams | Multi-Agent |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Open-source platform to build and run autonomous AI agents | Autonomous Agent |
 | [Hindsight](https://github.com/vectorize-io/hindsight) | Long-term memory system with temporal reasoning and cross-session persistence for AI agents | Agent Memory |
+| [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Open-source CLI granting AI agents search and read access across 13+ web platforms with zero API fees | Agent Web Access |
 | [HyperFrames](https://github.com/heygen-com/hyperframes) | Agent-native framework by HeyGen to render HTML, CSS, and animations into deterministic MP4 videos | Video Rendering |
 | [Ollama](https://github.com/ollama/ollama) | Run Llama 3, Mistral, and other large language models locally | Local AI Runtime |
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput, memory-efficient LLM serving and inference engine | Inference Engine |
@@ -105,6 +106,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Open Higgsfield AI](https://github.com/wide-trace/open-higgsfield) | Open-source browser studio alternative to generate images and videos across multi-model APIs | Generative Studio |
 | [Tabler Icons](https://github.com/tabler/tabler-icons) | 5,000+ pixel-perfect vector icons for web and mobile development | Icon Set |
 | [Aceternity UI](https://github.com/mannupaaji/aceternity-ui) | Modern, animated components built with Tailwind CSS and Framer Motion | UI Components |
+| [Dimensional Drawing](https://github.com/enesozturk/dimensional-drawing) | Agent skill converting UI components into Apple-style monochrome technical architecture blueprint drawings | UI Specs / Blueprint |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -136,7 +138,9 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Immich](https://github.com/immich-app/immich) | High-performance self-hosted photo & video backup (Google Photos alternative) | Photos & Media |
 | [StemKit](https://github.com/danielravina/stemkit) | Open-source desktop app to isolate vocals, drums, and instruments locally with GPU acceleration | Audio & Music |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open-source Notion alternative with complete offline and privacy controls | Notes & Knowledge |
+| [Open Notebook](https://github.com/lfnovo/open-notebook) | Self-hosted, privacy-focused NotebookLM alternative for multi-modal research, notes, and podcasts | Notes & AI Research |
 | [CleanYourTV](https://github.com/Gathin23/cleanyourtv) | Debloat Android TV & Google TV devices over Wi-Fi without root and install a clean, minimal launcher | TV / Android Tool |
+| [Torrent Player](https://github.com/karmugilen/torrent-player) | Native, battery-friendly Android torrent client with sequential media streaming and Material 3 design | Android / Media |
 | [Cal.com](https://github.com/calcom/cal.com) | Open scheduling infrastructure for individuals and enterprises | Scheduling |
 | [Ghost](https://github.com/TryGhost/Ghost) | Modern independent publishing platform for newsletters and blogs | Publishing & CMS |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Beautiful, self-hosted monitoring tool with status pages and alerts | Monitoring |
