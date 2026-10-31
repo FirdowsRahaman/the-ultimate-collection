@@ -54,6 +54,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Long-horizon multi-page document OCR model with constant KV cache attention | Vision / OCR Model |
 | [Dify](https://github.com/langgenius/dify) | Open-source LLM application development platform combining BaaS & LLMOps | Platform / Low-code |
 | [LocalAI](https://github.com/mudler/LocalAI) | Self-hosted, community-driven OpenAI-compatible alternative API | AI Server |
+| [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Self-hosted, offline AI voice studio for voice cloning, dubbing, and transcription (ElevenLabs alternative) | Voice / Audio AI |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -90,6 +91,8 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Raycast Extensions](https://github.com/raycast/extensions) | Community extensions for the Raycast productivity launcher | Productivity |
 | [Espanso](https://github.com/espanso/espanso) | Cross-platform text expander written in Rust | Text Expansion |
 | [Huginn](https://github.com/huginn/huginn) | Build agents that monitor web events and perform automated actions | Event Automation |
+| [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | Open-source, privacy-first cross-platform voice dictation and meeting transcription with local AI | Speech / Dictation |
+| [Cap](https://github.com/CapSoftware/Cap) | Open-source, self-hostable screen recorder and video messaging tool (Loom alternative) | Screen Recording |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -142,6 +145,9 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [CleanYourTV](https://github.com/Gathin23/cleanyourtv) | Debloat Android TV & Google TV devices over Wi-Fi without root and install a clean, minimal launcher | TV / Android Tool |
 | [Torrent Player](https://github.com/karmugilen/torrent-player) | Native, battery-friendly Android torrent client with sequential media streaming and Material 3 design | Android / Media |
 | [Cal.com](https://github.com/calcom/cal.com) | Open scheduling infrastructure for individuals and enterprises | Scheduling |
+| [Cal.diy](https://github.com/calcom/cal.diy) | 100% open-source, community-driven scheduling platform without commercial code (Cal.com fork) | Scheduling |
+| [OpenProject](https://github.com/opf/openproject) | Open-source project management platform supporting agile, Kanban, and Gantt charts (Jira alternative) | Project Management |
+| [Chatwoot](https://github.com/chatwoot/chatwoot) | Open-source customer engagement and live chat suite (Intercom and Zendesk alternative) | Customer Support |
 | [Ghost](https://github.com/TryGhost/Ghost) | Modern independent publishing platform for newsletters and blogs | Publishing & CMS |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Beautiful, self-hosted monitoring tool with status pages and alerts | Monitoring |
 
@@ -157,6 +163,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Free for Dev](https://github.com/ripienaar/free-for-dev) | Massive index of SaaS, PaaS, and IaaS services with generous free tiers | Budget & Cloud |
 | [Awesome Indie](https://github.com/mezod/awesome-indie) | Curated list of tools, newsletters, and communities for independent founders | Indie Hacking |
 | [Awesome Open Startup](https://github.com/mhm54/awesome-open-startup) | List of companies that share their metrics, revenue, and code publicly | Open Business |
+| [OpenSEO](https://github.com/every-app/open-seo) | Open-source, self-hosted alternative to Ahrefs and Semrush for SEO audits, rank tracking, and competitor analysis | SEO & Analytics |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
