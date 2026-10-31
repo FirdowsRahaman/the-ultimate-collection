@@ -45,6 +45,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Open-source platform to build and run autonomous AI agents | Autonomous Agent |
 | [Hindsight](https://github.com/vectorize-io/hindsight) | Long-term memory system with temporal reasoning and cross-session persistence for AI agents | Agent Memory |
 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Open-source CLI granting AI agents search and read access across 13+ web platforms with zero API fees | Agent Web Access |
+| [Harvey](https://github.com/ethanplusai/harvey) | Open-source autonomous outbound sales agent running multi-agent prospecting via Claude Code or Codex | Sales Agent |
 | [HyperFrames](https://github.com/heygen-com/hyperframes) | Agent-native framework by HeyGen to render HTML, CSS, and animations into deterministic MP4 videos | Video Rendering |
 | [Ollama](https://github.com/ollama/ollama) | Run Llama 3, Mistral, and other large language models locally | Local AI Runtime |
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput, memory-efficient LLM serving and inference engine | Inference Engine |
