@@ -110,6 +110,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Tabler Icons](https://github.com/tabler/tabler-icons) | 5,000+ pixel-perfect vector icons for web and mobile development | Icon Set |
 | [Aceternity UI](https://github.com/mannupaaji/aceternity-ui) | Modern, animated components built with Tailwind CSS and Framer Motion | UI Components |
 | [Dimensional Drawing](https://github.com/enesozturk/dimensional-drawing) | Agent skill converting UI components into Apple-style monochrome technical architecture blueprint drawings | UI Specs / Blueprint |
+| [UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Design intelligence agent skill with searchable styles, palettes, and guidelines to avoid generic AI aesthetics | Agent Design Skill |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -128,6 +129,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries) | High-value, concise application security guidance and defense tactics | Best Practices |
 | [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy toolkit to strip invisible AI watermarks, zero-width tracking characters, and metadata | Privacy / Sanitizer |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Lightweight Bitwarden-compatible server written in Rust for self-hosting | Password Vault |
+| [Domain Digger](https://github.com/wotschofsky/domain-digger) | Open-source toolkit for advanced domain analysis, DNS exploration, and OSINT infrastructure investigation | OSINT / Network |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
