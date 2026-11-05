@@ -45,6 +45,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Open-source platform to build and run autonomous AI agents | Autonomous Agent |
 | [Hindsight](https://github.com/vectorize-io/hindsight) | Long-term memory system with temporal reasoning and cross-session persistence for AI agents | Agent Memory |
 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Open-source CLI granting AI agents search and read access across 13+ web platforms with zero API fees | Agent Web Access |
+| [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python scraping library using LLMs and direct graph logic to extract structured data from websites | AI Web Scraping |
 | [Harvey](https://github.com/ethanplusai/harvey) | Open-source autonomous outbound sales agent running multi-agent prospecting via Claude Code or Codex | Sales Agent |
 | [HyperFrames](https://github.com/heygen-com/hyperframes) | Agent-native framework by HeyGen to render HTML, CSS, and animations into deterministic MP4 videos | Video Rendering |
 | [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) | Code-directed AI filmmaking framework and agent skill for generating cinematic videos via Canvas, WebGL, and code | Agent Filmmaking |
@@ -68,6 +69,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | :--- | :--- | :--- |
 | [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | Step-by-step tutorials to recreate Git, Docker, databases, and OS from scratch | Learning & Projects |
 | [MarkItDown](https://github.com/microsoft/markitdown) | Python utility from Microsoft to convert PDFs, Office files, audio, and images to clean Markdown | Document Converter |
+| [Filee](https://github.com/KnifeLemon/Filee) | Open-source local file converter with cursor radial menus, CLI support, and folder automation | File Converter |
 | [Peel](https://github.com/TuguiDragos/Peel) | Modern open-source macOS app uninstaller and residue/cache cleaner with CLI support | macOS Utility |
 | [uv](https://github.com/astral-sh/uv) | Extremely fast Python package manager and resolver written in Rust | Package Manager |
 | [bat](https://github.com/sharkdp/bat) | A modern `cat` clone with syntax highlighting and Git integration | CLI Utility |
@@ -112,6 +114,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Tabler Icons](https://github.com/tabler/tabler-icons) | 5,000+ pixel-perfect vector icons for web and mobile development | Icon Set |
 | [Aceternity UI](https://github.com/mannupaaji/aceternity-ui) | Modern, animated components built with Tailwind CSS and Framer Motion | UI Components |
 | [Dimensional Drawing](https://github.com/enesozturk/dimensional-drawing) | Agent skill converting UI components into Apple-style monochrome technical architecture blueprint drawings | UI Specs / Blueprint |
+| [Stack Diagram](https://github.com/caru-ini/stack-diagram) | Agent skill converting natural language stack descriptions into visual architecture diagrams with logos | Architecture / Diagram |
 | [UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Design intelligence agent skill with searchable styles, palettes, and guidelines to avoid generic AI aesthetics | Agent Design Skill |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
