@@ -39,6 +39,8 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | Resource | Description | Type |
 | :--- | :--- | :--- |
 | [Higgsfield Skills](https://github.com/higgsfield-ai/skills) | Production-grade skills and prompts for autonomous AI coding agents | Skills / Prompts |
+| [Ponytail](https://github.com/DietrichGebert/ponytail) | AI coding agent skill enforcing the "Ladder of Laziness" to stop over-engineering and eliminate code bloat | Coding Skill |
+| [Last 30 Days](https://github.com/mvanhorn/last30days-skill) | Agent research skill synthesizing real-time discussions across GitHub, Reddit, X, and HN from the past 30 days | Research Skill |
 | [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ production-ready AI agents, Agent Skills, MCP servers, and RAG systems with code | Agent Cookbooks |
 | [LangChain](https://github.com/langchain-ai/langchain) | Framework for developing applications powered by language models | Framework |
 | [CrewAI](https://github.com/crewAIInc/crewAI) | Orchestration platform for role-playing, autonomous multi-agent teams | Multi-Agent |
@@ -76,6 +78,8 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Neovim](https://github.com/neovim/neovim) | Highly-extensible, Lua-powered Vim fork focused on modern workflows | Code Editor |
 | [fzf](https://github.com/junegunn/fzf) | Lightning-fast, interactive command-line fuzzy finder | CLI Utility |
 | [Scrapy](https://github.com/scrapy/scrapy) | Fast, high-level web crawling and screen scraping framework for Python | Web Scraping |
+| [Scrapling](https://github.com/D4Vinci/Scrapling) | Undetectable, adaptive Python web scraping framework with stealth fetching and self-healing parsers | Web Scraping |
+| [REA (Reverse Engineer Anything)](https://github.com/morluto/rea) | Reverse-engineering toolkit and MCP server connecting AI coding agents to low-level binary & app inspection | Reverse Engineering |
 | [Awesome Docker Compose](https://github.com/docker/awesome-compose) | Curated multi-container Docker Compose samples across modern tech stacks | DevOps / Containers |
 | [LocalStack](https://github.com/localstack/localstack) | Fully-functional local cloud stack for testing AWS applications offline | Cloud Emulation |
 | [HTTPie](https://github.com/httpie/cli) | User-friendly command-line HTTP client with JSON support and colorization | API Client |
@@ -97,6 +101,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Huginn](https://github.com/huginn/huginn) | Build agents that monitor web events and perform automated actions | Event Automation |
 | [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | Open-source, privacy-first cross-platform voice dictation and meeting transcription with local AI | Speech / Dictation |
 | [Cap](https://github.com/CapSoftware/Cap) | Open-source, self-hostable screen recorder and video messaging tool (Loom alternative) | Screen Recording |
+| [Humanizer](https://github.com/blader/humanizer) | Agent skill and CLI to strip artificial phrasing, corporate buzzwords, and machine-written signatures | Text Refinement |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -116,6 +121,9 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Dimensional Drawing](https://github.com/enesozturk/dimensional-drawing) | Agent skill converting UI components into Apple-style monochrome technical architecture blueprint drawings | UI Specs / Blueprint |
 | [Stack Diagram](https://github.com/caru-ini/stack-diagram) | Agent skill converting natural language stack descriptions into visual architecture diagrams with logos | Architecture / Diagram |
 | [UI/UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | Design intelligence agent skill with searchable styles, palettes, and guidelines to avoid generic AI aesthetics | Agent Design Skill |
+| [Impeccable](https://github.com/pbakaus/impeccable) | Design vocabulary and linting skill by Paul Bakaus giving AI agents frontend taste and anti-slop rules | Agent Design Skill |
+| [Hallmark](https://github.com/Nutlope/hallmark) | AI design skill with curated themes, automated audits, and redesign modes to kill generic AI aesthetics | Agent Design Skill |
+| [Diagram Design](https://github.com/cathrynlavery/diagram-design) | Agent skill generating publication-grade HTML + SVG diagrams and flows without diagram clutter | Architecture / Diagram |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -149,6 +157,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [StemKit](https://github.com/danielravina/stemkit) | Open-source desktop app to isolate vocals, drums, and instruments locally with GPU acceleration | Audio & Music |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open-source Notion alternative with complete offline and privacy controls | Notes & Knowledge |
 | [Open Notebook](https://github.com/lfnovo/open-notebook) | Self-hosted, privacy-focused NotebookLM alternative for multi-modal research, notes, and podcasts | Notes & AI Research |
+| [Onyx](https://github.com/onyx-dot-app/onyx) | Open-source enterprise search and AI knowledge engine connecting Slack, Notion, and Google Drive | Enterprise Search |
 | [CleanYourTV](https://github.com/Gathin23/cleanyourtv) | Debloat Android TV & Google TV devices over Wi-Fi without root and install a clean, minimal launcher | TV / Android Tool |
 | [Torrent Player](https://github.com/karmugilen/torrent-player) | Native, battery-friendly Android torrent client with sequential media streaming and Material 3 design | Android / Media |
 | [Cal.com](https://github.com/calcom/cal.com) | Open scheduling infrastructure for individuals and enterprises | Scheduling |
