@@ -47,6 +47,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Open-source CLI granting AI agents search and read access across 13+ web platforms with zero API fees | Agent Web Access |
 | [Harvey](https://github.com/ethanplusai/harvey) | Open-source autonomous outbound sales agent running multi-agent prospecting via Claude Code or Codex | Sales Agent |
 | [HyperFrames](https://github.com/heygen-com/hyperframes) | Agent-native framework by HeyGen to render HTML, CSS, and animations into deterministic MP4 videos | Video Rendering |
+| [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) | Code-directed AI filmmaking framework and agent skill for generating cinematic videos via Canvas, WebGL, and code | Agent Filmmaking |
 | [Ollama](https://github.com/ollama/ollama) | Run Llama 3, Mistral, and other large language models locally | Local AI Runtime |
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput, memory-efficient LLM serving and inference engine | Inference Engine |
 | [WanGP](https://github.com/deepbeepmeep/WanGP) | VRAM-optimized generative platform to run video & image models (Wan 2.1, Hunyuan, Flux) on consumer GPUs | Video Generation |
