@@ -143,6 +143,9 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Watermarks Remover](https://github.com/guillaumemeyer/watermarks-remover) | Privacy toolkit to strip invisible AI watermarks, zero-width tracking characters, and metadata | Privacy / Sanitizer |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | Lightweight Bitwarden-compatible server written in Rust for self-hosting | Password Vault |
 | [Domain Digger](https://github.com/wotschofsky/domain-digger) | Open-source toolkit for advanced domain analysis, DNS exploration, and OSINT infrastructure investigation | OSINT / Network |
+| [Cartography](https://github.com/cartography-cncf/cartography) | Technical asset mapping tool consolidating infrastructure assets and relationships into a Neo4j graph | Asset Mapping / Cloud |
+| [Prowler](https://github.com/prowler-cloud/prowler) | Open-source cloud security tool for AWS, Azure, GCP, and Kubernetes audits and compliance | Cloud Security / CSPM |
+| [OWASP ZAP](https://github.com/zaproxy/zaproxy) | The world's most widely used open-source web application security scanner and DAST tool | DAST / Web Security |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
