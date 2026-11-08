@@ -83,6 +83,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Awesome Docker Compose](https://github.com/docker/awesome-compose) | Curated multi-container Docker Compose samples across modern tech stacks | DevOps / Containers |
 | [LocalStack](https://github.com/localstack/localstack) | Fully-functional local cloud stack for testing AWS applications offline | Cloud Emulation |
 | [HTTPie](https://github.com/httpie/cli) | User-friendly command-line HTTP client with JSON support and colorization | API Client |
+| [agent-qa](https://vostride.com) | Natural-language web and mobile QA with persistent memidex memory, validated self-improvement, and recorded steps/screenshots | QA Automation |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
