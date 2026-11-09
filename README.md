@@ -48,11 +48,13 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Hindsight](https://github.com/vectorize-io/hindsight) | Long-term memory system with temporal reasoning and cross-session persistence for AI agents | Agent Memory |
 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Open-source CLI granting AI agents search and read access across 13+ web platforms with zero API fees | Agent Web Access |
 | [Browser Use](https://github.com/browser-use/browser-use) | Open-source framework enabling autonomous AI agents to perceive, interact with, and navigate web browsers | Browser Automation |
+| [Agent Desktop](https://github.com/vercel-labs/agent-desktop) | Rust computer-use CLI by Vercel Labs for agents to navigate OS desktop apps via the accessibility tree | Desktop Computer Use |
 | [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python scraping library using LLMs and direct graph logic to extract structured data from websites | AI Web Scraping |
 | [Crawl4AI](https://github.com/unclecode/crawl4AI) | Open-source, lightning-fast LLM-friendly web crawler and scraper tailored for AI agents and RAG pipelines | AI Web Crawler |
 | [Harvey](https://github.com/ethanplusai/harvey) | Open-source autonomous outbound sales agent running multi-agent prospecting via Claude Code or Codex | Sales Agent |
 | [HyperFrames](https://github.com/heygen-com/hyperframes) | Agent-native framework by HeyGen to render HTML, CSS, and animations into deterministic MP4 videos | Video Rendering |
 | [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) | Code-directed AI filmmaking framework and agent skill for generating cinematic videos via Canvas, WebGL, and code | Agent Filmmaking |
+| [Brag](https://github.com/latent-spaces/brag) | Agent skill that reads codebases to automatically generate product launch videos via HyperFrames | Video Generation |
 | [Ollama](https://github.com/ollama/ollama) | Run Llama 3, Mistral, and other large language models locally | Local AI Runtime |
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput, memory-efficient LLM serving and inference engine | Inference Engine |
 | [WanGP](https://github.com/deepbeepmeep/WanGP) | VRAM-optimized generative platform to run video & image models (Wan 2.1, Hunyuan, Flux) on consumer GPUs | Video Generation |
@@ -86,6 +88,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [REA (Reverse Engineer Anything)](https://github.com/morluto/rea) | Reverse-engineering toolkit and MCP server connecting AI coding agents to low-level binary & app inspection | Reverse Engineering |
 | [Awesome Docker Compose](https://github.com/docker/awesome-compose) | Curated multi-container Docker Compose samples across modern tech stacks | DevOps / Containers |
 | [LocalStack](https://github.com/localstack/localstack) | Fully-functional local cloud stack for testing AWS applications offline | Cloud Emulation |
+| [Floci](https://github.com/floci-io/floci) | Fast, lightweight local cloud emulator for testing AWS and serverless services with real Docker runtimes | Cloud Emulation |
 | [HTTPie](https://github.com/httpie/cli) | User-friendly command-line HTTP client with JSON support and colorization | API Client |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
@@ -106,6 +109,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [OpenWhispr](https://github.com/OpenWhispr/openwhispr) | Open-source, privacy-first cross-platform voice dictation and meeting transcription with local AI | Speech / Dictation |
 | [Cap](https://github.com/CapSoftware/Cap) | Open-source, self-hostable screen recorder and video messaging tool (Loom alternative) | Screen Recording |
 | [Humanizer](https://github.com/blader/humanizer) | Agent skill and CLI to strip artificial phrasing, corporate buzzwords, and machine-written signatures | Text Refinement |
+| [YouTube Agent Skill](https://github.com/Jakeschincariol/youtube-agent-skill) | Suite of 11 production-ready agent skills for YouTube channel management, hook scoring, and retention analytics | Content Automation |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
