@@ -47,7 +47,9 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Open-source platform to build and run autonomous AI agents | Autonomous Agent |
 | [Hindsight](https://github.com/vectorize-io/hindsight) | Long-term memory system with temporal reasoning and cross-session persistence for AI agents | Agent Memory |
 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Open-source CLI granting AI agents search and read access across 13+ web platforms with zero API fees | Agent Web Access |
+| [Browser Use](https://github.com/browser-use/browser-use) | Open-source framework enabling autonomous AI agents to perceive, interact with, and navigate web browsers | Browser Automation |
 | [ScrapeGraphAI](https://github.com/ScrapeGraphAI/Scrapegraph-ai) | Python scraping library using LLMs and direct graph logic to extract structured data from websites | AI Web Scraping |
+| [Crawl4AI](https://github.com/unclecode/crawl4AI) | Open-source, lightning-fast LLM-friendly web crawler and scraper tailored for AI agents and RAG pipelines | AI Web Crawler |
 | [Harvey](https://github.com/ethanplusai/harvey) | Open-source autonomous outbound sales agent running multi-agent prospecting via Claude Code or Codex | Sales Agent |
 | [HyperFrames](https://github.com/heygen-com/hyperframes) | Agent-native framework by HeyGen to render HTML, CSS, and animations into deterministic MP4 videos | Video Rendering |
 | [Lemo-Opuscar](https://github.com/lemomo-ai/lemo-opuscar) | Code-directed AI filmmaking framework and agent skill for generating cinematic videos via Canvas, WebGL, and code | Agent Filmmaking |
@@ -58,6 +60,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Transformers](https://github.com/huggingface/transformers) | State-of-the-art machine learning architectures for PyTorch, TF, and JAX | ML Library |
 | [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Long-horizon multi-page document OCR model with constant KV cache attention | Vision / OCR Model |
 | [Dify](https://github.com/langgenius/dify) | Open-source LLM application development platform combining BaaS & LLMOps | Platform / Low-code |
+| [Langflow](https://github.com/langflow-ai/langflow) | Visual, open-source framework to prototype, build, and orchestrate multi-agent and RAG applications | Visual AI / Multi-Agent |
 | [LocalAI](https://github.com/mudler/LocalAI) | Self-hosted, community-driven OpenAI-compatible alternative API | AI Server |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Self-hosted, offline AI voice studio for voice cloning, dubbing, and transcription (ElevenLabs alternative) | Voice / Audio AI |
 
@@ -79,6 +82,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [fzf](https://github.com/junegunn/fzf) | Lightning-fast, interactive command-line fuzzy finder | CLI Utility |
 | [Scrapy](https://github.com/scrapy/scrapy) | Fast, high-level web crawling and screen scraping framework for Python | Web Scraping |
 | [Scrapling](https://github.com/D4Vinci/Scrapling) | Undetectable, adaptive Python web scraping framework with stealth fetching and self-healing parsers | Web Scraping |
+| [Maxun](https://github.com/getmaxun/maxun) | Open-source, no-code web data platform turning any website into structured APIs and custom feeds | Data Extraction / API |
 | [REA (Reverse Engineer Anything)](https://github.com/morluto/rea) | Reverse-engineering toolkit and MCP server connecting AI coding agents to low-level binary & app inspection | Reverse Engineering |
 | [Awesome Docker Compose](https://github.com/docker/awesome-compose) | Curated multi-container Docker Compose samples across modern tech stacks | DevOps / Containers |
 | [LocalStack](https://github.com/localstack/localstack) | Fully-functional local cloud stack for testing AWS applications offline | Cloud Emulation |
@@ -112,6 +116,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | Resource | Description | Type |
 | :--- | :--- | :--- |
 | [shadcn/ui](https://github.com/shadcn-ui/ui) | Beautifully designed, accessible components to copy & paste into your apps | UI Components |
+| [pdfcn](https://github.com/shadcn-labs/pdfcn) | Copy-and-paste React PDF components built on Takumi and Forme for the shadcn/ui ecosystem | UI Components / PDF |
 | [Lucide](https://github.com/lucide-icons/lucide) | Consistent, community-run open-source icon set (Feather evolution) | Icon Library |
 | [Excalidraw](https://github.com/excalidraw/excalidraw) | Virtual collaborative whiteboard for sketching hand-drawn diagrams | Whiteboard / Canvas |
 | [Penpot](https://github.com/penpot/penpot) | Open-source, web-based design and prototyping platform for teams | UI / UX Design |
@@ -162,6 +167,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Open Notebook](https://github.com/lfnovo/open-notebook) | Self-hosted, privacy-focused NotebookLM alternative for multi-modal research, notes, and podcasts | Notes & AI Research |
 | [Onyx](https://github.com/onyx-dot-app/onyx) | Open-source enterprise search and AI knowledge engine connecting Slack, Notion, and Google Drive | Enterprise Search |
 | [CleanYourTV](https://github.com/Gathin23/cleanyourtv) | Debloat Android TV & Google TV devices over Wi-Fi without root and install a clean, minimal launcher | TV / Android Tool |
+| [Stirling-PDF](https://github.com/Stirling-Tools/stirling-pdf) | Powerful, locally-hosted web application for performing all creation, merging, splitting, and conversion operations on PDFs | PDF Suite / Self-Hosted |
 | [Torrent Player](https://github.com/karmugilen/torrent-player) | Native, battery-friendly Android torrent client with sequential media streaming and Material 3 design | Android / Media |
 | [Cal.com](https://github.com/calcom/cal.com) | Open scheduling infrastructure for individuals and enterprises | Scheduling |
 | [Cal.diy](https://github.com/calcom/cal.diy) | 100% open-source, community-driven scheduling platform without commercial code (Cal.com fork) | Scheduling |
