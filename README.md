@@ -177,6 +177,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Cal.diy](https://github.com/calcom/cal.diy) | 100% open-source, community-driven scheduling platform without commercial code (Cal.com fork) | Scheduling |
 | [OpenProject](https://github.com/opf/openproject) | Open-source project management platform supporting agile, Kanban, and Gantt charts (Jira alternative) | Project Management |
 | [Chatwoot](https://github.com/chatwoot/chatwoot) | Open-source customer engagement and live chat suite (Intercom and Zendesk alternative) | Customer Support |
+| [UPI Gateway](https://github.com/mynkdev-21/upi-gateway) | Self-hosted, multi-merchant UPI payment management gateway with dynamic QR codes and signed webhooks | Payments / Self-Hosted |
 | [Ghost](https://github.com/TryGhost/Ghost) | Modern independent publishing platform for newsletters and blogs | Publishing & CMS |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Beautiful, self-hosted monitoring tool with status pages and alerts | Monitoring |
 
@@ -192,6 +193,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Free for Dev](https://github.com/ripienaar/free-for-dev) | Massive index of SaaS, PaaS, and IaaS services with generous free tiers | Budget & Cloud |
 | [Awesome Indie](https://github.com/mezod/awesome-indie) | Curated list of tools, newsletters, and communities for independent founders | Indie Hacking |
 | [Awesome Open Startup](https://github.com/mhm54/awesome-open-startup) | List of companies that share their metrics, revenue, and code publicly | Open Business |
+| [Founder Skill](https://github.com/Jakeschincariol/founder-skill) | Suite of AI agent skills with a simulated board of directors and consumer panels to stress-test startup ideas | Startup & Strategy |
 | [OpenSEO](https://github.com/every-app/open-seo) | Open-source, self-hosted alternative to Ahrefs and Semrush for SEO audits, rank tracking, and competitor analysis | SEO & Analytics |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
