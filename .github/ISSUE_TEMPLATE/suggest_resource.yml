@@ -1,4 +1,4 @@
-name: "💡 Suggest a Resource"
+name: "Suggest a Resource"
 description: "Submit a new open-source repository, developer tool, or agent skill to the collection."
 title: "Add: <Project Name>"
 labels: ["resource submission", "triage"]
@@ -74,3 +74,4 @@ body:
           required: true
         - label: "This is not an affiliate, spam, or promotional link."
           required: true
+

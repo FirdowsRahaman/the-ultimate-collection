@@ -6,7 +6,7 @@ The goal of this repository is simple: **Find it once, save it, never search for
 
 ---
 
-## 📌 Guidelines for Submissions
+## <img src="assets/icons/toc.svg" width="20" height="20" align="absmiddle" /> Guidelines for Submissions
 
 1. **Active & High Quality**: The repository should be actively maintained, useful, or an established benchmark in its category.
 2. **Proper Formatting**: Keep descriptions to 1 concise sentence explaining *why* it's useful.
@@ -16,7 +16,7 @@ The goal of this repository is simple: **Find it once, save it, never search for
 
 ---
 
-## 📝 Format Template
+## <img src="assets/icons/plus.svg" width="20" height="20" align="absmiddle" /> Format Template
 
 When adding a new entry to any table, follow this format:
 

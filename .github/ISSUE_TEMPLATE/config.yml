@@ -1,5 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: "💬 Community Discussions"
+  - name: "Community Discussions"
     url: "https://github.com/FirdowsRahaman/the-ultimate-collection/discussions"
     about: "Discuss ideas, ask questions, or chat with the community."
+
