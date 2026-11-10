@@ -93,6 +93,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [LocalStack](https://github.com/localstack/localstack) | Fully-functional local cloud stack for testing AWS applications offline | Cloud Emulation |
 | [Floci](https://github.com/floci-io/floci) | Fast, lightweight local cloud emulator for testing AWS and serverless services with real Docker runtimes | Cloud Emulation |
 | [HTTPie](https://github.com/httpie/cli) | User-friendly command-line HTTP client with JSON support and colorization | API Client |
+| [agent-qa](https://vostride.com) | Natural-language web and mobile QA with persistent memidex memory, validated self-improvement, and recorded steps/screenshots | QA Automation |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
