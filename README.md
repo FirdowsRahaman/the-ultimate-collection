@@ -6,7 +6,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](#)
+[![Curated Resources](https://img.shields.io/badge/Curated%20Resources-110+-8A2BE2.svg)](#table-of-contents)
+[![GitHub Stars](https://img.shields.io/github/stars/FirdowsRahaman/the-ultimate-collection?style=flat&color=yellow)](https://github.com/FirdowsRahaman/the-ultimate-collection/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/FirdowsRahaman/the-ultimate-collection?style=flat&color=blue)](https://github.com/FirdowsRahaman/the-ultimate-collection/network/members)
+[![Link Checker](https://github.com/FirdowsRahaman/the-ultimate-collection/actions/workflows/link-checker.yml/badge.svg)](https://github.com/FirdowsRahaman/the-ultimate-collection/actions/workflows/link-checker.yml)
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > **"Find it once, save it, never search for it again."**

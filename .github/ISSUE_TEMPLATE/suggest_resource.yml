@@ -1,0 +1,76 @@
+name: "💡 Suggest a Resource"
+description: "Submit a new open-source repository, developer tool, or agent skill to the collection."
+title: "Add: <Project Name>"
+labels: ["resource submission", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping build **The Ultimate Collection**! Please fill out the details below before submitting.
+
+  - type: input
+    id: project_name
+    attributes:
+      label: "Project Name"
+      description: "What is the official name of the project?"
+      placeholder: "e.g., Browser Use"
+    validations:
+      required: true
+
+  - type: input
+    id: repository_url
+    attributes:
+      label: "Repository / Project URL"
+      description: "Direct link to the active GitHub repository or official site."
+      placeholder: "https://github.com/owner/repository"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: "Category"
+      description: "Which section in the directory does this best belong to?"
+      options:
+        - "AI, Agents & Machine Learning"
+        - "Developer Tools & Infrastructure"
+        - "Automation & Productivity"
+        - "Design, UI & Creative Assets"
+        - "Cybersecurity & Privacy"
+        - "Open-Source Applications & Self-Hosted"
+        - "Business, Career & Entrepreneurship"
+        - "Public APIs, Datasets & Learning"
+        - "Meta Lists & Master Indexes"
+        - "Propose a New Category"
+    validations:
+      required: true
+
+  - type: input
+    id: tag
+    attributes:
+      label: "Type / Tag"
+      description: "A short 1–3 word category tag."
+      placeholder: "e.g., Browser Automation, UI Components, CLI Utility"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "One-Line Description"
+      description: "Concise summary explaining what the tool does and why it stands out (1 sentence)."
+      placeholder: "Open-source framework enabling autonomous AI agents to perceive and interact with web browsers."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: "Quality Checklist"
+      options:
+        - label: "The repository is active, open-source, or has a functional free tier."
+          required: true
+        - label: "I checked that this resource is not already listed in README.md."
+          required: true
+        - label: "This is not an affiliate, spam, or promotional link."
+          required: true
