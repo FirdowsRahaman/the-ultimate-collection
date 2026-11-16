@@ -68,6 +68,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Langflow](https://github.com/langflow-ai/langflow) | Visual, open-source framework to prototype, build, and orchestrate multi-agent and RAG applications | Visual AI / Multi-Agent |
 | [LocalAI](https://github.com/mudler/LocalAI) | Self-hosted, community-driven OpenAI-compatible alternative API | AI Server |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Self-hosted, offline AI voice studio for voice cloning, dubbing, and transcription (ElevenLabs alternative) | Voice / Audio AI |
+| [punchtape](https://github.com/neurophant/punchtape) | Makes AI coding agents finish the job instead of claiming it - runs the task's own checks and seals the finish | Verification / CLI |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
