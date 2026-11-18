@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Curated Resources](https://img.shields.io/badge/Curated%20Resources-110+-8A2BE2.svg)](#table-of-contents)
+[![Curated Resources](https://img.shields.io/badge/Curated%20Resources-115+-8A2BE2.svg)](#table-of-contents)
 [![GitHub Stars](https://img.shields.io/github/stars/FirdowsRahaman/the-ultimate-collection?style=flat&color=yellow)](https://github.com/FirdowsRahaman/the-ultimate-collection)
 [![GitHub Forks](https://img.shields.io/github/forks/FirdowsRahaman/the-ultimate-collection?style=flat&color=blue)](https://github.com/FirdowsRahaman/the-ultimate-collection/network/members)
 [![Link Checker](https://github.com/FirdowsRahaman/the-ultimate-collection/actions/workflows/link-checker.yml/badge.svg)](https://github.com/FirdowsRahaman/the-ultimate-collection/actions/workflows/link-checker.yml)
@@ -43,10 +43,12 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | :--- | :--- | :--- |
 | [Higgsfield Skills](https://github.com/higgsfield-ai/skills) | Production-grade skills and prompts for autonomous AI coding agents | Skills / Prompts |
 | [Ponytail](https://github.com/DietrichGebert/ponytail) | AI coding agent skill enforcing the "Ladder of Laziness" to stop over-engineering and eliminate code bloat | Coding Skill |
+| [Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance-src) | Agent skill suite by Google Chrome & MDN embedding modern web standards and browser compat into coding agents | Web Skill |
 | [Last 30 Days](https://github.com/mvanhorn/last30days-skill) | Agent research skill synthesizing real-time discussions across GitHub, Reddit, X, and HN from the past 30 days | Research Skill |
 | [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 100+ production-ready AI agents, Agent Skills, MCP servers, and RAG systems with code | Agent Cookbooks |
 | [LangChain](https://github.com/langchain-ai/langchain) | Framework for developing applications powered by language models | Framework |
 | [CrewAI](https://github.com/crewAIInc/crewAI) | Orchestration platform for role-playing, autonomous multi-agent teams | Multi-Agent |
+| [PaperOrchestra](https://github.com/google-research/paper-orchestra) | Multi-agent framework by Google Cloud AI Research for automated paper writing and literature synthesis | Multi-Agent / Research |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Open-source platform to build and run autonomous AI agents | Autonomous Agent |
 | [Hindsight](https://github.com/vectorize-io/hindsight) | Long-term memory system with temporal reasoning and cross-session persistence for AI agents | Agent Memory |
 | [Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Open-source CLI granting AI agents search and read access across 13+ web platforms with zero API fees | Agent Web Access |
@@ -62,6 +64,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [vLLM](https://github.com/vllm-project/vllm) | High-throughput, memory-efficient LLM serving and inference engine | Inference Engine |
 | [WanGP](https://github.com/deepbeepmeep/WanGP) | VRAM-optimized generative platform to run video & image models (Wan 2.1, Hunyuan, Flux) on consumer GPUs | Video Generation |
 | [ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Powerful, modular graph/nodes interface for Stable Diffusion & generative AI | Generative UI |
+| [ComfyUI-Photoshoot](https://github.com/ralksta/ComfyUI-Photoshoot) | ComfyUI node suite to generate consistent character photoshoots across variations in framing, pose, and style | Generative AI / Image |
 | [Transformers](https://github.com/huggingface/transformers) | State-of-the-art machine learning architectures for PyTorch, TF, and JAX | ML Library |
 | [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Long-horizon multi-page document OCR model with constant KV cache attention | Vision / OCR Model |
 | [Dify](https://github.com/langgenius/dify) | Open-source LLM application development platform combining BaaS & LLMOps | Platform / Low-code |
@@ -129,6 +132,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Excalidraw](https://github.com/excalidraw/excalidraw) | Virtual collaborative whiteboard for sketching hand-drawn diagrams | Whiteboard / Canvas |
 | [Penpot](https://github.com/penpot/penpot) | Open-source, web-based design and prototyping platform for teams | UI / UX Design |
 | [Open Higgsfield AI](https://github.com/wide-trace/open-higgsfield) | Open-source browser studio alternative to generate images and videos across multi-model APIs | Generative Studio |
+| [Kokon](https://github.com/gabrielelozupone/kokon) | Local, privacy-first AI photo editor and MCP server to edit images via natural language on consumer GPUs | Photo Editor / Local AI |
 | [Tabler Icons](https://github.com/tabler/tabler-icons) | 5,000+ pixel-perfect vector icons for web and mobile development | Icon Set |
 | [Aceternity UI](https://ui.aceternity.com) | Modern, animated components built with Tailwind CSS and Framer Motion | UI Components |
 | [Dimensional Drawing](https://github.com/enesozturk/dimensional-drawing) | Agent skill converting UI components into Apple-style monochrome technical architecture blueprint drawings | UI Specs / Blueprint |
@@ -147,6 +151,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | Resource | Description | Type |
 | :--- | :--- | :--- |
 | [PentAGI](https://github.com/vxcontrol/pentagi) | Fully autonomous AI agent system for executing penetration tests inside isolated Docker environments | Autonomous Pentesting |
+| [ARTEX](https://github.com/BaaRai/ARTEX) | Self-hosted multi-agent autonomous penetration testing system with traceable proof-of-exploit receipts | Autonomous Pentesting |
 | [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | Inspiring collection of manuals, cheat sheets, and security toolkits | Security & DevOps |
 | [Presidio](https://github.com/data-privacy-stack/presidio) | Microsoft's open-source framework to recognize, redact, and anonymize PII across text and images | Data Privacy / PII |
 | [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) | Multi-phase security audit agent skill by Cloudflare for systematic code review and vuln hunting | Agent Security Skill |
@@ -171,6 +176,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | The definitive index of network services and applications you can host yourself | Curated Directory |
 | [Immich](https://github.com/immich-app/immich) | High-performance self-hosted photo & video backup (Google Photos alternative) | Photos & Media |
 | [StemKit](https://github.com/danielravina/stemkit) | Open-source desktop app to isolate vocals, drums, and instruments locally with GPU acceleration | Audio & Music |
+| [OpenCut](https://github.com/opencut-app/opencut) | Open-source, web and desktop video editor alternative to CapCut for content creation | Video Editor |
 | [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) | Open-source Notion alternative with complete offline and privacy controls | Notes & Knowledge |
 | [Open Notebook](https://github.com/lfnovo/open-notebook) | Self-hosted, privacy-focused NotebookLM alternative for multi-modal research, notes, and podcasts | Notes & AI Research |
 | [Onyx](https://github.com/onyx-dot-app/onyx) | Open-source enterprise search and AI knowledge engine connecting Slack, Notion, and Google Drive | Enterprise Search |
