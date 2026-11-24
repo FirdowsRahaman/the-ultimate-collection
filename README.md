@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Curated Resources](https://img.shields.io/badge/Curated%20Resources-115+-8A2BE2.svg)](#table-of-contents)
+[![Curated Resources](https://img.shields.io/badge/Curated%20Resources-125+-8A2BE2.svg)](#table-of-contents)
 [![GitHub Stars](https://img.shields.io/github/stars/FirdowsRahaman/the-ultimate-collection?style=flat&color=yellow)](https://github.com/FirdowsRahaman/the-ultimate-collection)
 [![GitHub Forks](https://img.shields.io/github/forks/FirdowsRahaman/the-ultimate-collection?style=flat&color=blue)](https://github.com/FirdowsRahaman/the-ultimate-collection/network/members)
 [![Link Checker](https://github.com/FirdowsRahaman/the-ultimate-collection/actions/workflows/link-checker.yml/badge.svg)](https://github.com/FirdowsRahaman/the-ultimate-collection/actions/workflows/link-checker.yml)
@@ -71,6 +71,8 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Langflow](https://github.com/langflow-ai/langflow) | Visual, open-source framework to prototype, build, and orchestrate multi-agent and RAG applications | Visual AI / Multi-Agent |
 | [LocalAI](https://github.com/mudler/LocalAI) | Self-hosted, community-driven OpenAI-compatible alternative API | AI Server |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Self-hosted, offline AI voice studio for voice cloning, dubbing, and transcription (ElevenLabs alternative) | Voice / Audio AI |
+| [AI Video Factory](https://github.com/ersinkoc/AI-Video-Factory) | AI video production studio turning single topics into finished multilingual videos using multi-agent Claude pipelines | Video Generation / Multi-Agent |
+| [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) | AI-powered codebase visualizer converting any repository into an interactive, explorable knowledge graph | Agent Tool / Codebase Visualizer |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -97,6 +99,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Floci](https://github.com/floci-io/floci) | Fast, lightweight local cloud emulator for testing AWS and serverless services with real Docker runtimes | Cloud Emulation |
 | [HTTPie](https://github.com/httpie/cli) | User-friendly command-line HTTP client with JSON support and colorization | API Client |
 | [agent-qa](https://github.com/vostride/agent-qa) | Natural-language web and mobile QA agent with persistent memory and screenshot regression testing | QA Automation |
+| [Remotion](https://github.com/remotion-dev/remotion) | Create production-grade, programmatic videos using React, TypeScript, and web standards | Video Framework / React |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -117,6 +120,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Cap](https://github.com/CapSoftware/Cap) | Open-source, self-hostable screen recorder and video messaging tool (Loom alternative) | Screen Recording |
 | [Humanizer](https://github.com/blader/humanizer) | Agent skill and CLI to strip artificial phrasing, corporate buzzwords, and machine-written signatures | Text Refinement |
 | [YouTube Agent Skill](https://github.com/Jakeschincariol/youtube-agent-skill) | Suite of 11 production-ready agent skills for YouTube channel management, hook scoring, and retention analytics | Content Automation |
+| [Recordly](https://github.com/webadderallorg/Recordly) | Open-source desktop app to create polished, zoom-animated demo videos without manual editing (Screen Studio alternative) | Screen Recording / Demo Video |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -141,6 +145,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Impeccable](https://github.com/pbakaus/impeccable) | Design vocabulary and linting skill by Paul Bakaus giving AI agents frontend taste and anti-slop rules | Agent Design Skill |
 | [Hallmark](https://github.com/Nutlope/hallmark) | AI design skill with curated themes, automated audits, and redesign modes to kill generic AI aesthetics | Agent Design Skill |
 | [Diagram Design](https://github.com/cathrynlavery/diagram-design) | Agent skill generating publication-grade HTML + SVG diagrams and flows without diagram clutter | Architecture / Diagram |
+| [Motion](https://github.com/motiondivision/motion) | Modern, production-ready animation library for React and JavaScript (formerly Framer Motion) | Animation Library |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -164,6 +169,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Cartography](https://github.com/cartography-cncf/cartography) | Technical asset mapping tool consolidating infrastructure assets and relationships into a Neo4j graph | Asset Mapping / Cloud |
 | [Prowler](https://github.com/prowler-cloud/prowler) | Open-source cloud security tool for AWS, Azure, GCP, and Kubernetes audits and compliance | Cloud Security / CSPM |
 | [OWASP ZAP](https://github.com/zaproxy/zaproxy) | The world's most widely used open-source web application security scanner and DAST tool | DAST / Web Security |
+| [SpiderFoot](https://github.com/smicallef/spiderfoot) | Automated OSINT reconnaissance platform for threat intelligence and attack surface mapping | OSINT / Attack Surface |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -181,7 +187,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Open Notebook](https://github.com/lfnovo/open-notebook) | Self-hosted, privacy-focused NotebookLM alternative for multi-modal research, notes, and podcasts | Notes & AI Research |
 | [Onyx](https://github.com/onyx-dot-app/onyx) | Open-source enterprise search and AI knowledge engine connecting Slack, Notion, and Google Drive | Enterprise Search |
 | [CleanYourTV](https://github.com/Gathin23/cleanyourtv) | Debloat Android TV & Google TV devices over Wi-Fi without root and install a clean, minimal launcher | TV / Android Tool |
-| [Stirling-PDF](https://github.com/Stirling-Tools/stirling-pdf) | Powerful, locally-hosted web application for performing all creation, merging, splitting, and conversion operations on PDFs | PDF Suite / Self-Hosted |
+| [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Powerful, locally-hosted web application for performing all creation, merging, splitting, and conversion operations on PDFs | PDF Suite / Self-Hosted |
 | [Torrent Player](https://github.com/karmugilen/torrent-player) | Native, battery-friendly Android torrent client with sequential media streaming and Material 3 design | Android / Media |
 | [Cal.com](https://cal.com) | Open scheduling infrastructure for individuals and enterprises | Scheduling |
 | [Cal.diy](https://github.com/calcom/cal.diy) | 100% open-source, community-driven scheduling platform without commercial code (Cal.com fork) | Scheduling |
@@ -190,6 +196,8 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [UPI Gateway](https://github.com/mynkdev-21/upi-gateway) | Self-hosted, multi-merchant UPI payment management gateway with dynamic QR codes and signed webhooks | Payments / Self-Hosted |
 | [Ghost](https://github.com/TryGhost/Ghost) | Modern independent publishing platform for newsletters and blogs | Publishing & CMS |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Beautiful, self-hosted monitoring tool with status pages and alerts | Monitoring |
+| [Fleetbase](https://github.com/fleetbase/fleetbase) | Modular open-source logistics and supply chain operating system (LSOS) for fleet, order, and dispatch orchestration | Logistics / Supply Chain |
+| [Mailflare](https://github.com/hieunc229/mailflare) | Open-source webmail suite and serverless email platform powered by Cloudflare Workers and Email Routing | Email / Self-Hosted |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
@@ -205,6 +213,8 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Awesome Open Startup](https://github.com/gabrielperales/awesome-open-startup) | List of companies that share their metrics, revenue, and code publicly | Open Business |
 | [Founder Skill](https://github.com/Jakeschincariol/founder-skill) | Suite of AI agent skills with a simulated board of directors and consumer panels to stress-test startup ideas | Startup & Strategy |
 | [OpenSEO](https://github.com/every-app/open-seo) | Open-source, self-hosted alternative to Ahrefs and Semrush for SEO audits, rank tracking, and competitor analysis | SEO & Analytics |
+| [Free GST Billing Software](https://github.com/IamRamgarhia/Free-GST-Billing-Software) | 100% offline, open-source GST invoicing and billing software for India with quotation generation and GSTR reports | Invoicing & Accounting |
+| [Invoice Builder](https://github.com/piratuks/invoice-builder) | Cross-platform desktop app for freelancers and small businesses to create, manage, and export local PDF invoices | Invoicing / Desktop App |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
