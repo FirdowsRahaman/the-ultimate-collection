@@ -67,9 +67,11 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [ComfyUI-Photoshoot](https://github.com/ralksta/ComfyUI-Photoshoot) | ComfyUI node suite to generate consistent character photoshoots across variations in framing, pose, and style | Generative AI / Image |
 | [Transformers](https://github.com/huggingface/transformers) | State-of-the-art machine learning architectures for PyTorch, TF, and JAX | ML Library |
 | [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) | Long-horizon multi-page document OCR model with constant KV cache attention | Vision / OCR Model |
+| [rembg](https://github.com/danielgatis/rembg) | Open-source Python tool, CLI, and HTTP server to remove image backgrounds using deep learning models | Image Segmentation / AI |
 | [Dify](https://github.com/langgenius/dify) | Open-source LLM application development platform combining BaaS & LLMOps | Platform / Low-code |
 | [Langflow](https://github.com/langflow-ai/langflow) | Visual, open-source framework to prototype, build, and orchestrate multi-agent and RAG applications | Visual AI / Multi-Agent |
 | [LocalAI](https://github.com/mudler/LocalAI) | Self-hosted, community-driven OpenAI-compatible alternative API | AI Server |
+| [FreeLLMAPI](https://github.com/tashfeenahmed/freellmapi) | Unified OpenAI-compatible `/v1` proxy aggregating dozens of free LLM providers with automatic failover | AI Proxy / API |
 | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | Self-hosted, offline AI voice studio for voice cloning, dubbing, and transcription (ElevenLabs alternative) | Voice / Audio AI |
 | [AI Video Factory](https://github.com/ersinkoc/AI-Video-Factory) | AI video production studio turning single topics into finished multilingual videos using multi-agent Claude pipelines | Video Generation / Multi-Agent |
 | [Understand Anything](https://github.com/Egonex-AI/Understand-Anything) | AI-powered codebase visualizer converting any repository into an interactive, explorable knowledge graph | Agent Tool / Codebase Visualizer |
@@ -93,6 +95,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Scrapy](https://github.com/scrapy/scrapy) | Fast, high-level web crawling and screen scraping framework for Python | Web Scraping |
 | [Scrapling](https://github.com/D4Vinci/Scrapling) | Undetectable, adaptive Python web scraping framework with stealth fetching and self-healing parsers | Web Scraping |
 | [Maxun](https://github.com/getmaxun/maxun) | Open-source, no-code web data platform turning any website into structured APIs and custom feeds | Data Extraction / API |
+| [Google Maps Scraper](https://github.com/gosom/google-maps-scraper) | Fast Go-based scraper extracting business names, addresses, phone numbers, websites, and reviews from Google Maps | Web Scraping / CLI |
 | [REA (Reverse Engineer Anything)](https://github.com/morluto/rea) | Reverse-engineering toolkit and MCP server connecting AI coding agents to low-level binary & app inspection | Reverse Engineering |
 | [Awesome Docker Compose](https://github.com/docker/awesome-compose) | Curated multi-container Docker Compose samples across modern tech stacks | DevOps / Containers |
 | [LocalStack](https://github.com/localstack/localstack) | Fully-functional local cloud stack for testing AWS applications offline | Cloud Emulation |
@@ -189,6 +192,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [CleanYourTV](https://github.com/Gathin23/cleanyourtv) | Debloat Android TV & Google TV devices over Wi-Fi without root and install a clean, minimal launcher | TV / Android Tool |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | Powerful, locally-hosted web application for performing all creation, merging, splitting, and conversion operations on PDFs | PDF Suite / Self-Hosted |
 | [Torrent Player](https://github.com/karmugilen/torrent-player) | Native, battery-friendly Android torrent client with sequential media streaming and Material 3 design | Android / Media |
+| [Ghost Downloader 3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Cross-platform download manager supporting HTTP, BitTorrent, M3U8/DASH streams, and browser media sniffing | Download Manager |
 | [Cal.com](https://cal.com) | Open scheduling infrastructure for individuals and enterprises | Scheduling |
 | [Cal.diy](https://github.com/calcom/cal.diy) | 100% open-source, community-driven scheduling platform without commercial code (Cal.com fork) | Scheduling |
 | [OpenProject](https://github.com/opf/openproject) | Open-source project management platform supporting agile, Kanban, and Gantt charts (Jira alternative) | Project Management |
@@ -198,6 +202,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Beautiful, self-hosted monitoring tool with status pages and alerts | Monitoring |
 | [Fleetbase](https://github.com/fleetbase/fleetbase) | Modular open-source logistics and supply chain operating system (LSOS) for fleet, order, and dispatch orchestration | Logistics / Supply Chain |
 | [Mailflare](https://github.com/hieunc229/mailflare) | Open-source webmail suite and serverless email platform powered by Cloudflare Workers and Email Routing | Email / Self-Hosted |
+| [Graphic Walker](https://github.com/Kanaries/graphic-walker) | Open-source, embeddable Tableau alternative for interactive visual data exploration and grammar-of-graphics charts | Data Visualization / BI |
 
 [<img src="assets/icons/arrow-up.svg" width="14" height="14" align="absmiddle" /> Back to Top](#table-of-contents)
 
