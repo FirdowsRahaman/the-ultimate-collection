@@ -196,6 +196,7 @@ A universal, curated directory of standout GitHub repositories, developer utilit
 | [UPI Gateway](https://github.com/mynkdev-21/upi-gateway) | Self-hosted, multi-merchant UPI payment management gateway with dynamic QR codes and signed webhooks | Payments / Self-Hosted |
 | [Ghost](https://github.com/TryGhost/Ghost) | Modern independent publishing platform for newsletters and blogs | Publishing & CMS |
 | [Uptime Kuma](https://github.com/louislam/uptime-kuma) | Beautiful, self-hosted monitoring tool with status pages and alerts | Monitoring |
+| [SiteWatcher](https://github.com/NikKurkov/sitewatcher) | Self-hosted monitoring for website uptime, response times, TLS certificates and domain expiry | Monitoring |
 | [Fleetbase](https://github.com/fleetbase/fleetbase) | Modular open-source logistics and supply chain operating system (LSOS) for fleet, order, and dispatch orchestration | Logistics / Supply Chain |
 | [Mailflare](https://github.com/hieunc229/mailflare) | Open-source webmail suite and serverless email platform powered by Cloudflare Workers and Email Routing | Email / Self-Hosted |
 
